@@ -14,7 +14,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/ox1nec/IntuitionTestnetBot
+git clone https://github.com/k6todat/IntuitionTestnetBot
 cd IntuitionTestnetBot
 run.bat
 ```
@@ -22,7 +22,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/ox1nec/IntuitionTestnetBot
+git clone https://github.com/k6todat/IntuitionTestnetBot
 cd IntuitionTestnetBot
 pip install -r requirements.txt
 python bot.py
