@@ -1,0 +1,2 @@
+# IntuitionTestnetBot
+Intuition Testnet bot
